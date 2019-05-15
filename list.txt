@@ -1,3 +1,4 @@
 // List of the new featuresa
 1.Feature 1 - description
+fix on the branch1
 2.Feature 2 - descr 
